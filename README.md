@@ -1,1 +1,1 @@
-To preview site visit : apsrptclone248.netlify.app
+To preview site visit : https://apsrptclone248.netlify.app/
